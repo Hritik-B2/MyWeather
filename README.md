@@ -4,13 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A beautiful interactive weather app which can show weather of your live location weather and also any other city
+ by just taking the location from device with the help of gps in your mobile,
+And if you want to know the location of any other city just type in the name of the city and bang its there on screen🤩.
 
-A few resources to get you started if this is your first Flutter project:
+Weather source
+Openweather.org api
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For getting live location 
+Getyourlocation plugin is used provided by official flutter community
+
+Used http to interact with internet.
